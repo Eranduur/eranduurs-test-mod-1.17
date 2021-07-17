@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:raw_iron"
+  },
+  "addition": {
+    "item": "modid:raw_tin"
+  },
+  "result": {
+    "item": "modid:iron_tin_alloy"
+  }
+}

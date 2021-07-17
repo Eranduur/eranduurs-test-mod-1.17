@@ -1,0 +1,13 @@
+{
+  "item.modid.fabric_item": "Fabric Item",
+  "item.modid.sus_item": "Susannah's Item",
+  "subtitle.modid.horn": "War Horn Blows",
+  "item.modid.horn": "Horn",
+  "item.modid.iron_tin_alloy": "Iron/Tin Alloy",
+  "item.modid.steel_ingot": "Steel Ingot",
+  "item.modid.tin_ingot": "Tin Ingot",
+  "item.modid.raw_tin": "Raw Tin",
+  "block.modid.tin_ore": "Tin Ore",
+  "item.modid.horn.tooltip": "A Viking War Horn!",
+  "itemGroup.modid.custom_tab": "Eranduur's Test Mod"
+}

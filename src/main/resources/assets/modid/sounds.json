@@ -1,0 +1,8 @@
+{
+  "horn": {
+    "subtitle": "subtitles.modid.horn",
+    "sounds": [
+      "modid:horn"
+    ]
+  }
+}

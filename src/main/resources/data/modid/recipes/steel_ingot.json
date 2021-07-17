@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "modid:iron_tin_alloy"
+  },
+  "result": "modid:steel_ingot",
+  "experience": 0.7
+}
